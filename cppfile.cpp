@@ -9,7 +9,7 @@ int main() {
     cin >> num;
 
     // Check if the number is even or odd
-    if (num % 4 == 0) {
+    if (num % 8 == 0) {
         cout << num << " is even." << endl;
     } else {
         cout << num << " is odd." << endl;
